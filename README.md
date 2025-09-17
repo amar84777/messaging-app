@@ -76,7 +76,7 @@ RealChat is a chat application build with Node.js and Typescript. It provides a 
 
 3. Open the browser and go to `http://pub-ip:8080`
 
-## Screenshots
+## Screenshots are veryb neww
 
 ### Private chat
 
